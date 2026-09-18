@@ -1,0 +1,54 @@
+# Technical Patents & Intellectual Property Registry
+
+A centralized engineering repository archiving formal design sheets, Form 1 filings, boundary specifications, flowcharts, and system architectures for my published and filed intellectual property portfolio.
+
+## 🛠️ Cyber-Physical Systems & IoT Utility Patents
+
+### 1. Automated Accident Detection and Tracking System Using IoT (2024)
+*   **Domain**: Internet of Things (IoT), Embedded Systems, Intelligent Transportation Networks
+*   **Core Mechanics**: Combines edge-computing sensors (accelerometers, impact detection matrices) with real-time GPS tracking modules. Generates automated emergency event triggers and coordinate broadcasting protocols to optimize response pipeline loops.
+
+### 2. Integrated Hyperspectral IoT System for Spectral Drift Detection
+*   **Domain**: Advanced Sensor Networks, Cyber-Physical Systems, Data Tier Analytics
+*   **Core Mechanics**: Integrates multispectral field sensors with an IoT communication layer to monitor environmental, agricultural, or industrial anomalies, actively identifying and correcting micro-spectral drifts across remote sensory networks.
+
+---
+
+## 🍳 Smart Household & Consumer Product Design Patents
+
+### 3. Stainless Steel Smart Cooker (2026)
+*   **Classification**: Appliance Automation / Structural Product Design
+*   **Core Mechanics**: Details an embedded sensor array topology and custom thermal distribution housing, providing closed-loop automated heating control profiles to improve energy efficiency thresholds.
+
+### 4. Smart Scheduler Bag (2026)
+*   **Classification**: Smart Wearables / Functional Everyday Logistics
+*   **Core Mechanics**: Incorporates low-power digital organization components into consumer luggage, tracking structural contents or deadlines dynamically via local physical indicator modules.
+
+### 5. Leak-Proof Mixer Jar (2024)
+*   **Classification**: Mechanical Engineering / Consumer Hardware Design
+*   **Core Mechanics**: Focuses on absolute liquid seal isolation architecture, minimizing radial vibration drift, high-speed rotational friction wear, and fluid leakage across residential appliance applications.
+
+---
+
+## 📂 Repository File Architecture
+
+```text
+├── patents/
+│   ├── cyber-physical-systems/
+│   │   ├── accident-detection-iot/     # Form 1, network flowcharts, and sensor mapping
+│   │   └── hyperspectral-drift/        # Data topologies and dynamic correction logic
+│   │
+│   └── consumer-hardware/
+│       ├── smart-cooker-2026/          # Thermal schematics and design sheet submissions
+│       ├── smart-scheduler-bag/        # Wiring paths and product blueprint sets
+│       └── leakproof-mixer-2024/       # Geometric boundary constraints and cross-sections
+│
+└── compliance-logs/
+    └── FER-responses/                  # First Examination Report (FER) reply tracking sheets
+```
+
+---
+
+## 📋 Registry Status & Regulatory Compliance
+*   **Filing Windows**: 2024 – 2026 Academic Research Cycles
+*   **Documentation Artifacts**: Features complete official geometric design sheets, schematic wiring diagrams, mechanical boundary specifications, and structured First Examination Report (FER) legal response workflows.
