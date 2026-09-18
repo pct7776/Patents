@@ -1,0 +1,49 @@
+# Granted Design Patents & Industrial Registrations
+
+A centralized visual and intellectual property archive protecting the ornamental designs, novelty form factors, and unique structural aesthetics of consumer hardware and everyday utility innovations.
+
+## 🏆 Portfolio of Granted Design Patents
+
+This section inventories industrial design registrations officially published or granted under the Controller General of Patents, Designs & Trade Marks (CGPDTM).
+
+### 1. Stainless Steel Smart Cooker (Granted/Published 2026)
+*   **Application Domain:** Automated Kitchen Appliances / Structural Presentation
+*   **Protected Elements:** Novel ornamental configuration, surface texturing, low-profile lid interface, and handle layout. Establishes priority for the unique physical housing layout.
+
+### 2. Smart Scheduler Bag (Granted/Published 2026)
+*   **Application Domain:** Smart Wearables / Luggage Logistics
+*   **Protected Elements:** Structural configuration, exterior panel layout integrating electronic indicator displays, and ergonomic strap profile designs.
+
+### 3. Fabric Attachable Secret Pouch for Women (Granted/Published 2024)
+*   **Application Domain:** Consumer Apparel / Functional Travel Utilities
+*   **Protected Elements:** Low-profile geometry, concealment mechanism aesthetics, and attachment interface configuration for seamless everyday wear.
+
+### 4. Smart Bedpan (Granted/Published 2024)
+*   **Application Domain:** Medical Devices / Sanitary Healthcare Hardware
+*   **Protected Elements:** Ergonomic physical form factor, integrated sensor-casing architecture alignment, and seamless fluid-dynamic contours for patient comfort.
+
+### 5. Leak-Proof Mixer Jar (Granted/Published 2024)
+*   **Application Domain:** Kitchen Hardware / Home Appliances
+*   **Protected Elements:** Unique handle geometry, lock-ring mechanical contours, base assembly profile, and safety latch placement aesthetics.
+
+---
+
+## 📂 Repository File Architecture
+
+```text
+├── design-grants/
+│   ├── smart-cooker-2026/             # Form 1, design sheets (Front, Top, Isometric views)
+│   ├── smart-scheduler-bag/           # Visual representations and geometric specifications
+│   ├── secret-pouch-2024/             # Multi-angle ortho drawings and fabric seams
+│   ├── smart-bedpan-2024/             # Industrial design blueprints and contours
+│   └── leakproof-mixer-2024/          # Absolute lock-ring dimensional profiles
+│
+└── compliance-assets/
+    └── representations/               # Legal representations and official grant letters
+```
+
+---
+
+## 📋 Industrial Classification & Guidelines
+*   **Regulatory Alignment:** Filed and evaluated strictly under the Locarno Classification Framework for Industrial Designs.
+*   **Design Sheet Standards:** All subfolders contain high-definition visual representations consisting of mandatory perspective views (Front, Rear, Side, Top, Bottom, and Isometric views) defining novel shape, surface pattern, configuration, and ornamentation boundaries.
